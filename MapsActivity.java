@@ -1,4 +1,4 @@
-package com.csc131.meghana.gettogether;
+package com.example.tybettencourt.gettogether1;
 
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
