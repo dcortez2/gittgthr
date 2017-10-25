@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.manrajsingh960.gettogether.CreateEvent">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#43A3CB">
+
+        <TextView
+            android:id="@+id/createEventTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Create Event"
+            android:textSize="40sp"
+            android:textColor="#1E5A79"
+            tools:layout_editor_absoluteX="25dp"
+            tools:layout_editor_absoluteY="16dp" />
+
+        <EditText
+            android:id="@+id/eventName"
+            android:layout_width="330dp"
+            android:layout_height="30dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="Event Title"
+            android:textColor="#ffffff"
+            android:background="@drawable/login_buttons"
+            tools:layout_editor_absoluteX="27dp"
+            tools:layout_editor_absoluteY="90dp" />
+
+        <EditText
+            android:id="@+id/eventStart"
+            android:layout_width="330dp"
+            android:layout_height="30dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="Event Start Time"
+            android:textColor="#ffffff"
+            android:background="@drawable/login_buttons"
+            tools:layout_editor_absoluteX="27dp"
+            tools:layout_editor_absoluteY="150dp" />
+
+        <EditText
+            android:id="@+id/eventEnd"
+            android:layout_width="330dp"
+            android:layout_height="30dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="Event End Time"
+            android:textColor="#ffffff"
+            android:background="@drawable/login_buttons"
+            tools:layout_editor_absoluteX="27dp"
+            tools:layout_editor_absoluteY="210dp" />
+
+        <EditText
+            android:id="@+id/eventParticipants"
+            android:layout_width="330dp"
+            android:layout_height="30dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="Number of maximum participants"
+            android:textColor="#ffffff"
+            android:background="@drawable/login_buttons"
+            tools:layout_editor_absoluteX="27dp"
+            tools:layout_editor_absoluteY="270dp" />
+
+        <EditText
+            android:id="@+id/eventDescription"
+            android:layout_width="338dp"
+            android:layout_height="150dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="Event Description"
+            android:textColor="#ffffff"
+            android:background="@drawable/login_buttons"
+            tools:layout_editor_absoluteX="27dp"
+            tools:layout_editor_absoluteY="330dp" />
+
+        <EditText
+            android:id="@+id/eventTag1"
+            android:layout_width="330dp"
+            android:layout_height="30dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="Enter first filter"
+            android:textColor="#ffffff"
+            android:background="@drawable/login_buttons"
+            tools:layout_editor_absoluteX="27dp"
+            tools:layout_editor_absoluteY="510dp" />
+
+        <EditText
+            android:id="@+id/eventTag2"
+            android:layout_width="330dp"
+            android:layout_height="30dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="Enter second filter"
+            android:textColor="#ffffff"
+            android:background="@drawable/login_buttons"
+            tools:layout_editor_absoluteX="27dp"
+            tools:layout_editor_absoluteY="570dp" />
+
+        <EditText
+            android:id="@+id/eventTag3"
+            android:layout_width="330dp"
+            android:layout_height="30dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="Enter third filter"
+            android:textColor="#ffffff"
+            android:background="@drawable/login_buttons"
+            tools:layout_editor_absoluteX="27dp"
+            tools:layout_editor_absoluteY="630dp" />
+
+        <EditText
+            android:id="@+id/eventLocation"
+            android:layout_width="330dp"
+            android:layout_height="30dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="Enter Location"
+            android:textColor="#ffffff"
+            android:background="@drawable/login_buttons"
+            tools:layout_editor_absoluteX="27dp"
+            tools:layout_editor_absoluteY="690dp" />
+
+        <Button
+            android:id="@+id/accountCreateButton"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:text="Create\n Event"
+            android:textColor="#ffffff"
+            android:textSize="20sp"
+            android:background="#1E5A79"
+            android:onClick="goToMainMenu"
+            tools:layout_editor_absoluteX="137dp"
+            tools:layout_editor_absoluteY="750dp" />
+
+    </android.support.constraint.ConstraintLayout>
+</ScrollView>
+
