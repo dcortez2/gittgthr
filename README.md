@@ -9,4 +9,4 @@
 
 5. If any issues are found, please report them to the Issues tab.
   - To start an issue, you are required to have a GitHub account.
-  -
+  - Feel free to add any issues or build upon discovered ones.
