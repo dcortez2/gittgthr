@@ -7,6 +7,7 @@
 
 4. app-release.apk is to be downloaded with an android phone or an android emulator. 
 
-5. If any issues are found, please report them to the Issues tab.
+5. If any issues are found, please report them to either the Issues tab or through email.
   - To start an issue, you are required to have a GitHub account.
   - Feel free to add any issues or build upon discovered ones.
+  - Email to csc131gettogether_1172781000000017243@bugs.zohoprojects.com
