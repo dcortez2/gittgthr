@@ -11,3 +11,8 @@
   - To start an issue, you are required to have a GitHub account.
   - Feel free to add any issues or build upon discovered ones.
   - Email to csc131gettogether_1172781000000017243@bugs.zohoprojects.com
+
+#Note
+
+V_1_0_3 : Login and Create account features should be fully fuctional 
+Test and report bugs 
