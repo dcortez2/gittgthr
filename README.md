@@ -19,3 +19,6 @@ V_1_0_3 : Login and Create account features should be fully fuctional
 
 # HomePage
 http://athena.ecs.csus.edu/~gittgthr/
+
+# Developer Documentation
+https://github.com/manrajsingh960/GetTogether
