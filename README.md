@@ -6,7 +6,7 @@
 
 3. GetTogether_Complete_Feature_Release.apk is the newest APK. This is the file to be downloaded.  
 
-4. GetTogether_Complete_Feature_Release.apk is to be downloaded with an android devicecanvas or an android emulator. 
+4. GetTogether_Complete_Feature_Release.apk is to be downloaded with an android device or an android emulator. 
 
 # Report Bugs
 
