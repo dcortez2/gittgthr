@@ -13,6 +13,11 @@
   - Feel free to add any issues or build upon discovered ones.
   - Email to csc131gettogether_1172781000000017243@bugs.zohoprojects.com
 
+# Report Bugs
+
+You will need a GitHub account to report bugs.
+Report bugs/issues under the issues tab of this repository or the issues tab in the Developer Repository.
+
 # HomePage
 http://athena.ecs.csus.edu/~gittgthr/
 
