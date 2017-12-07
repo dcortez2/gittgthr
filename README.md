@@ -13,11 +13,6 @@
   - Feel free to add any issues or build upon discovered ones.
   - Email to csc131gettogether_1172781000000017243@bugs.zohoprojects.com
 
-# Notes
-
-V_1_0_3 : Login and Create account features should be fully fuctional 
-  - Test and report bugs 
-
 # HomePage
 http://athena.ecs.csus.edu/~gittgthr/
 
